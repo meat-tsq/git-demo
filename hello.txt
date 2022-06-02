@@ -7,3 +7,4 @@ hello Git~
 Wed Jun  1 16:04:54     2022
 hello my name is rocketmq!
 hello my name is zookeeper
+hello master
